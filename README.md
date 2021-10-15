@@ -1,4 +1,5 @@
 Tutorial Video:
+
 YouTube - 
 Bilibili - 
 
@@ -9,6 +10,7 @@ This is the initialization version of the tutorial project.
 
 ## In this video you will learn: 
 1. Three methods to implement data saving and loading in Unity Engine: 
+2. 
 (1) PlayerPrefs
 (2) JSON
 (3) Binary Serialization
@@ -23,6 +25,7 @@ This is the initialization version of the tutorial project.
 
 ## 在这个小教程中你将学到：
 1. 三种Unity引擎中常见的数据存取方法:
+
 (1) PlayerPrefs
 (2) JSON
 (3) 二进制序列化
