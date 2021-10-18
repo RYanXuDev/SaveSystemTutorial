@@ -2,12 +2,9 @@ Tutorial Videos:
 
 YouTube - 
   Part 1:
-  Part 2:
-  Part 3:
+  
 Bilibili - 
-  Part 1:
-  Part 2:
-  Part 3:
+  Part 1:https://www.bilibili.com/video/BV1nQ4y1z7pZ/
 
 -----------------------------------------------------------
 
@@ -29,3 +26,15 @@ This is the initialization version of the tutorial project.
 1. 三种Unity引擎中常见的数据存取方法:(1) PlayerPrefs; (2) JSON; (3) 二进制序列化
 2. 它们的优缺点
 3. 构建一个高适用性的存档系统
+
+-----------------------------------------------------------
+
+## 参考资料 References Links
+PlayerPrefs - Unity Documentation -
+https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
+
+JsonUtility - Unity Documentation - 
+https://docs.unity3d.com/ScriptReference/JsonUtility.html
+
+MenuItem - Unity Documentation -
+https://docs.unity3d.com/ScriptReference/MenuItem.html
