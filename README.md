@@ -1,10 +1,10 @@
 Tutorial Videos: 
 
 YouTube - 
-  Part 1:https://youtu.be/_oMoNneulE4
+  Part 1: https://youtu.be/tci13zedrzw
   
 Bilibili - 
-  Part 1:https://www.bilibili.com/video/BV1nQ4y1z7pZ/
+  Part 1: https://www.bilibili.com/video/BV1nQ4y1z7pZ/
 
 -----------------------------------------------------------
 
