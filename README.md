@@ -11,7 +11,7 @@ Bilibili -
 # Unity Save System Tutorial
 This is the initialization version of the tutorial project.
 
-## In this video you will learn: 
+## In this tutorial you will learn: 
 1. Three methods to implement data saving and loading in Unity Engine: (1) PlayerPrefs; (2) JSON; (3) Binary Serialization
 2. Their pros and cons
 3. Build a flexible save system
