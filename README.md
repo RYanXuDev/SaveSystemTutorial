@@ -1,7 +1,8 @@
 Tutorial Videos: 
+<iframe src="//player.bilibili.com/player.html?bvid=BV1nQ4y1z7pZ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 YouTube - 
-  Part 1:
+  Part 1:https://youtu.be/_oMoNneulE4
   
 Bilibili - 
   Part 1:https://www.bilibili.com/video/BV1nQ4y1z7pZ/
