@@ -4,6 +4,8 @@ YouTube -
 
   Part 1: https://youtu.be/tci13zedrzw
   
+  Part 2: https://youtu.be/1vOuh3_ZXRQ
+  
   
 Bilibili - 
 
